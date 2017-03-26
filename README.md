@@ -1,0 +1,3 @@
+# data-science
+These are exercises I have completed when studying the online machine learning course. The exercise is completed in Octave/Matlab. I learned how to implement basic Machine Learning model like Linear Regression, Logistic Regression, Artificial Neural Network... Some basic mathematical function commonly used in machine learning is also implemented e.g. sigmoid, gradient descent...
+These exercises consolidated my understanding in the machine learning field.
